@@ -1,5 +1,5 @@
 <template>
-  <div class="section3">
+  <div class="section3 h-screen">
     <h1>S3</h1>
   </div>
 </template>
@@ -9,9 +9,3 @@ export default {
   name: 'HomeS3'
 }
 </script>
-
-<style scoped>
-.section3{
-  height:100vh;
-}
-</style>

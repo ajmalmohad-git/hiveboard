@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed min-height-14 w-screen flex items-center justify-between flex-wrap bg-hivetext1">
+  <nav class="fixed min-height-14 w-screen flex items-center justify-between flex-wrap bg-hivetext1 text-center">
     <div class="mr-6">
       <img class="h-14" alt="Hiveboard" src="../assets/images/Navlogo.png">
     </div>

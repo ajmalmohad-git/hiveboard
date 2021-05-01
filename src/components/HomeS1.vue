@@ -33,6 +33,7 @@ export default {
 @media (max-width:728px){
   .img1{
     padding-top:15vh;
+    margin-bottom: 5vh;
   }
 }
 </style>

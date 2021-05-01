@@ -11,7 +11,7 @@ module.exports = {
       xl: '1440px',
     },
     colors: {
-      hiveprimary1: '#e5e7eb',
+      hiveprimary1: '#fafafa',
       hiveprimary2: '#dde5f3',
       hivetext1: '#1f2937',
       hiveaccent1: '#4338ca',
@@ -27,7 +27,7 @@ module.exports = {
       '2xl': '1.5rem',
       '3xl': '1.875rem',
       '4xl': '2.25rem',
-      '5xl': '2.9rem',
+      '5xl': '2.8rem',
       '6xl': '4rem',
       '7xl': '5rem',
     },

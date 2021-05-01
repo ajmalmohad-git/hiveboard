@@ -1,6 +1,7 @@
 <template>
-  <div class="section1 flex flex-col items-start sm:items-center md:flex-row text-left">
-     <div class="flex-1 px-12 md:px-20 order-2 md:order-1 mt-10 ">
+  <div class="section1 h-screen flex flex-col items-start sm:items-center md:flex-row text-left overflow-x-hidden">
+     <div class="flex-1 px-12 md:px-10 lg:px-20 order-2 md:order-1 mt-10 ">
+       <img class="absolute top-1 left-1 h-8 md:h-10" src="../assets/images/Navlogo.png"/>
        <p class="text-xs text-hiveaccent1 font-bold">GET STARTED</p>
        <h1 class="mt-1 md:mt-0 font-extrabold text-3xl sm:text-4xl lg:text-5xl">Show yourself &amp; </h1>
        <h1 class="font-extrabold text-3xl sm:text-4xl lg:text-5xl">Get Hired</h1>
@@ -19,12 +20,10 @@ export default {
 </script>
 
 <style scoped>
-.section1{
-  height:calc(100vh - 56px);
-}
 .img1{
   height:60vh;
-  object-fit: cover;
+  min-width: 400px;
+  object-fit: contain;
 }
 @media (max-width:976px){
   .img1{

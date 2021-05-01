@@ -1,10 +1,10 @@
 <template>
   <div class="section2 h-screen flex flex-col items-start sm:items-center md:flex-row text-left overflow-x-hidden">
-     <div class="flex-1 px-12 md:px-10 lg:px-20 order-2 mt-16 md:mt-0">
+     <div class="flex-1 px-12 md:px-10 lg:px-20 order-2 mt-12 md:mt-0">
        <h1 class="mt-1 md:mt-0 font-extrabold text-3xl sm:text-4xl lg:text-5xl">Create Free Global</h1>
        <h1 class="font-extrabold text-3xl sm:text-4xl lg:text-5xl">Profile</h1>
-       <p class="text-xs text-hivetext1 font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quo iste inventore minima totam cum vel voluptatum id distinctio quos dignissimos excepturi cupiditate, accusamus saepe dicta. Aliquam cumque obcaecati cupiditate?</p>
-       <button class="mt-2 bg-hiveaccent1 hover:text-hiveaccent2 text-hiveprimary1 font-bold py-2 px-4 rounded"><p>Create Profile Now</p></button>
+       <p class="text-xs text-hivetext1 font-bold mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quo iste inventore minima totam cum vel voluptatum id distinctio quos dignissimos excepturi cupiditate, accusamus saepe dicta. Aliquam cumque obcaecati cupiditate?</p>
+       <button class="mt-4 bg-hiveaccent1 hover:text-hiveaccent2 text-hiveprimary1 font-bold py-2 px-4 rounded"><p>Create Profile Now</p></button>
      </div>
      <div class="flex-1 flex flex-col self-center order-1">
        <img class="img1" src="../assets/images/section2.png"/>

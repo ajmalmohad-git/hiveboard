@@ -32,8 +32,8 @@ export default {
 @media (max-width:728px){
   .img1{
     padding-top:5vh;
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:40px;
+    padding-right:40px;
   }
 }
 </style>
